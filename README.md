@@ -1,16 +1,36 @@
-## Hi there 👋
+# Faizan Ahmed Siddique
 
-<!--
-**am-faizann/am-faizann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Cloud Engineer | B.Tech CSE Student**
 
-Here are some ideas to get you started:
+Hi! I'm Faizan, a first-year Computer Science and Engineering student passionate about technology, programming, and cloud computing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building my technical foundation and exploring cloud technologies with the goal of becoming a skilled Cloud Engineer.
+
+### Technical Skills
+- Python
+- C
+- HTML
+- CSS
+
+### Areas of Interest
+- Cloud Computing
+- Amazon Web Services (AWS)
+- Microsoft Azure
+- Linux & Networking
+- DevOps & Automation
+
+### Currently Working On
+- Strengthening programming fundamentals
+- Learning Git and GitHub
+- Exploring Linux and networking
+- Understanding cloud computing fundamentals
+
+### My Goal
+To build real-world projects, develop strong technical skills, and grow into a professional Cloud Engineer.
+
+### Connect
+- GitHub: [@am-faizann](https://github.com/am-faizann)
+
+---
+
+*Learning. Building. Growing.*
